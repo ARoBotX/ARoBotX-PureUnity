@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d3e1eea49adf50446b3580b621e2ac2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _boxPrefab: {fileID: 7319890515691683552, guid: 300c5d2c609724941b03c9c15f420a9e,
+      type: 3}
+  - _tablePrefab: {fileID: 3513253296756698944, guid: c326c41b90bde0e44832dd9b73138e47,
+      type: 3}
+  - _bottlePrefab: {fileID: 7263698418763909754, guid: 907a3aa8833d3b741b0fc7939a4a9ae3,
+      type: 3}
+  - _laptopPrefab: {fileID: 9171751074577036583, guid: 309b7eae78f74724fbe6a235342e98cc,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
